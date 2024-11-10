@@ -1,4 +1,4 @@
-# HeyGen Test
+# HeyGen Demo
 
 A sample script demonstrating how to generate a short video using the [HeyGen API](https://heygen.com/). This project leverages Streamlit to create an interface where users can enter text and generate a video with a HeyGen avatar and professional voice.
 
